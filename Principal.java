@@ -12,7 +12,13 @@ public class Principal {
 //        Alg4 a4 = new Alg4();
 //        a4.fatorial();
 
-        Alg5 a5 = new Alg5();
-        a5.serieInfinita();
+//        Alg5 a5 = new Alg5();
+//        a5.serieInfinita();
+
+//        Alg6 a6 = new Alg6();
+//        a6.fibonacci();
+
+        Alg7 a7 = new Alg7();
+        a7.iversao();
     }
 }
